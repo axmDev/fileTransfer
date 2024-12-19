@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Terminal=true
+Name=Updater
+Exec=/home/testusr/PycharmProjects/fileTransferFix/run.sh
+Icon=/home/testusr/Downloads/update-png-image.png
+Type=Application
